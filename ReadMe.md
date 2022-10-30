@@ -1,8 +1,10 @@
-# Recommender System - by using PyTorch
+# Recommender System Model Implementation by using PyTorch
 - 대표적인 Recommender-system 모형을 PyTorch를 이용해 구현합니다
 - Code: [Colab](https://colab.research.google.com/?utm_source=scs-index) 에서 작성되었습니다
 - Data: [MovieLens 100K](https://www.kaggle.com/prajitdatta/movielens-100k-dataset), [Online Advertising](https://d2l.ai/chapter_recommender-systems/ctr.html)
 - Reference:[Dive Into Deep Learning/Recommender Systems](https://d2l.ai/chapter_recommender-systems/index.html#) 
+
+---
 
 ## Matrix Completion on Explicit Feedback
 

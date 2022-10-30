@@ -4,8 +4,6 @@
 - Data: [MovieLens 100K](https://www.kaggle.com/prajitdatta/movielens-100k-dataset), [Online Advertising](https://d2l.ai/chapter_recommender-systems/ctr.html)
 - Reference:[Dive Into Deep Learning/Recommender Systems](https://d2l.ai/chapter_recommender-systems/index.html#) 
 
----
-
 ## Matrix Completion on Explicit Feedback
 
 #### Matrix Factorization

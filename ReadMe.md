@@ -1,13 +1,14 @@
 # Recommender System - PyTorch
 Implementing recommender system models by using PyTorch.
 
-- Code (Notebook)
-  - written in [Colab](https://colab.research.google.com/?utm_source=scs-index)
-- Hyper-parameter tuning
-  - by using [Ray Tune](https://docs.ray.io/en/latest/tune/index.html)
+
+- Tools
+  - Language: Python3.7
+  - Working Environment: [Colab Notebook](https://colab.research.google.com/?utm_source=scs-index)
+  - Hyper-parameter Optimization Tool: [Ray Tune](https://docs.ray.io/en/latest/tune/index.html)
 - Data
   - [MovieLens 100K](https://www.kaggle.com/prajitdatta/movielens-100k-dataset), [Online Advertising](https://d2l.ai/chapter_recommender-systems/ctr.html)
-- Reference
+- Code Reference
   - [Dive Into Deep Learning/Recommender Systems](https://d2l.ai/chapter_recommender-systems/index.html#) 
 
 ## 1. Matrix Completion on Explicit Feedback

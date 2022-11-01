@@ -5,8 +5,8 @@ Implementing recommender system models by using PyTorch.
 - Tools
   - Language: Python3.7
   - Modeling Framework: [PyTorch](https://pytorch.org/)
-  - Working Environment: [Colab Notebook](https://colab.research.google.com/?utm_source=scs-index)
   - Hyper-parameter Optimization Tool: [Ray Tune](https://docs.ray.io/en/latest/tune/index.html)
+  - Working Environment: [Colab Notebook](https://colab.research.google.com/?utm_source=scs-index)
 - Data
   - [MovieLens 100K](https://www.kaggle.com/prajitdatta/movielens-100k-dataset), [Online Advertising](https://d2l.ai/chapter_recommender-systems/ctr.html)
 - Code Reference
